@@ -52,3 +52,7 @@ A realização deste laboratório trouxe conhecimentos fundamentais sobre segura
 • **Funcionamento do EDR:** Aprendizado sobre como o agente coleta esses dados brutos na ponta e envia para um servidor centralizado organizar tudo em formato de alertas.
 
 • **Análise de Ataques:** Visão real de como atividades maliciosas comuns (como força bruta via SSH) deixam rastros visíveis que podem ser caçados por um Analista de SOC.
+
+##
+
+<p align="center">© 2026 - Gisele Alencar</p>
